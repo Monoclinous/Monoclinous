@@ -1,5 +1,35 @@
 <!-- Add your HTML content from index.html below -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>My Portfolio</h1>
+    <p>Welcome to my portfolio page! Here you can see some of my projects.</p>
 
+    <div class="panel">
+      <h2>Project 1</h2>
+      <img src="project1-screenshot.jpg" alt="Project 1 Screenshot">
+      <p>Description of Project 1.</p>
+      <a href="project1-repo-link">View Project</a>
+    </div>
+
+    <div class="panel">
+      <h2>Project 2</h2>
+      <img src="project2-screenshot.jpg" alt="Project 2 Screenshot">
+      <p>Description of Project 2.</p>
+      <a href="project2-repo-link">View Project</a>
+    </div>
+
+    <!-- Add more panels for your projects if needed -->
+
+  </div>
+</body>
+</html>
 <!-- Add your CSS styles from style.css below -->
 
 # Welcome to My Portfolio
