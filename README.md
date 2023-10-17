@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Portfolio</title>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -31,6 +30,41 @@
 </body>
 </html>
 <!-- Add your CSS styles from style.css below -->
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.panel {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.panel h2 {
+  font-size: 20px;
+}
+
+.panel img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.panel p {
+  margin-bottom: 10px;
+}
+
+.panel a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
 
 # Welcome to My Portfolio
 
