@@ -1,0 +1,42 @@
+/* style.css */
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.projects {
+  margin-top: 20px;
+}
+
+.projects h2 {
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+footer ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+footer ul li a {
+  text-decoration: none;
+  color: #333;
+}
