@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to My Portfolio
 
-<!--
-**Monoclinous/Monoclinous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Photo](![Schoolcraft_County_Courthouse_(Manistique)](https://github.com/Monoclinous/Monoclinous/assets/147448648/cac1e654-824e-4c1b-a612-47e9eefe1463)
+)
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Skill 1
+- Skill 2
+- Skill 3
+- Skill 4
+
+## About Me
+
+Hello, I'm [Your Name]. I am a [Your Profession] with a passion for [Your Interests]. I have experience in [Your Expertise]. I enjoy working on [Types of Projects] and continuously expanding my knowledge in [Technologies or Tools].
+
+Here are a few things that describe me:
+
+- Detail-oriented and dedicated
+- Strong problem-solving skills
+- Effective communicator
+- Team player
+- Constantly eager to learn and grow
+
+I am excited to showcase my projects and skills and to connect with like-minded individuals. Feel free to reach out to me via [email/website/social media] for any collaboration or opportunities.
+
+Thank you for visiting my portfolio!
