@@ -1,3 +1,7 @@
+<!-- Add your HTML content from index.html below -->
+
+<!-- Add your CSS styles from style.css below -->
+
 # Welcome to My Portfolio
 
 ![Profile Photo](![Schoolcraft_County_Courthouse_(Manistique)](https://github.com/Monoclinous/Monoclinous/assets/147448648/cac1e654-824e-4c1b-a612-47e9eefe1463)
