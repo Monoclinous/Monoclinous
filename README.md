@@ -14,6 +14,6 @@ Here are a few things that describe me:
 - Team player
 - Constantly eager to learn and grow
 
-I am excited to showcase my projects and skills and to connect with like-minded individuals. Feel free to reach out to me via [email/website/social media] for any collaboration or opportunities.
+I am excited to showcase my projects. Feel free to reach out to me for any collaboration or opportunities.
 
 Thank you for visiting my portfolio!
