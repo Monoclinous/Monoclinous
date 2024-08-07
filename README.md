@@ -2,16 +2,9 @@
 
 ![Schoolcraft County Courthouse](https://upload.wikimedia.org/wikipedia/commons/8/86/Schoolcraft_County_Courthouse_%28Manistique%29.jpg)
 
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
-
 ## About Me
 
-Hello, I'm [Your Name]. I am a [Your Profession] with a passion for [Your Interests]. I have experience in [Your Expertise]. I enjoy working on [Types of Projects] and continuously expanding my knowledge in [Technologies or Tools].
+Hello, I'm Quentin. I am an IT student with a passion for creating. I have experience in retail but I currently tinker with servers, operating systems, and basic electronics. I enjoy working on projects in and out of class and continuously expanding my knowledge in the related fields of IT.
 
 Here are a few things that describe me:
 
@@ -25,9 +18,6 @@ I am excited to showcase my projects and skills and to connect with like-minded 
 
 Thank you for visiting my portfolio!
 
-<!-- Add your HTML content from index.html below -->
-<!-- Example: -->
-<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,23 +38,11 @@ Thank you for visiting my portfolio!
       <a href="project1-repo-link">View Project</a>
     </div>
 
-    <div class="project">
-      <h2>Project 2</h2>
-      <img src="project2-screenshot.jpg" alt="Project 2 Screenshot">
-      <p>Description of Project 2.</p>
-      <a href="project2-repo-link">View Project</a>
-    </div>
-
-    <!-- Add more projects as needed -->
-
   </section>
 </body>
 </html>
 -->
 
-<!-- Add your CSS styles from style.css below -->
-<!-- Example: -->
-<!--
 body {
   font-family: Arial, sans-serif;
   margin: 0;
